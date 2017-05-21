@@ -1,2 +1,2 @@
 # isomorphic-skiplist
-Isomorphic implementation of a skiplist.
+Isomorphic implementation of a skiplist. Just starting to setup the project. Follow up soon...
