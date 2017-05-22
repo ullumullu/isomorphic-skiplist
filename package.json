@@ -1,0 +1,25 @@
+{
+  "name": "isomorphic-skiplist",
+  "version": "0.0.0",
+  "description": "Isomorphic implementation of a skiplist.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./**/*.spec.js"
+  },
+  "keywords": [
+    "skiplist",
+    "javascript",
+    "isomoph",
+    "isomorphic"
+  ],
+  "author": "Sven Sterbling <sv.sterbling@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ullumullu/isomorphic-skiplist.git"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.4.1"
+  }
+}

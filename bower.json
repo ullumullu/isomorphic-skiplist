@@ -1,0 +1,6 @@
+{
+  "name": "isomorphic-skiplist",
+  "main": ["index-bower.js"],
+  "dependencies": {
+  }
+}
