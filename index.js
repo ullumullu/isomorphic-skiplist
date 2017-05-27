@@ -3,7 +3,7 @@
 const SkipList = require('./lib/skiplist');
 
 module.exports = function() {
-  return SkipList;
+  return new SkipList();
 };
 
 if (!global.SkipList) {
