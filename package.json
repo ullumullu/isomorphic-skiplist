@@ -19,7 +19,7 @@
     "url": "https://github.com/ullumullu/isomorphic-skiplist.git"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
+    "chai": "^4.0.0",
     "mocha": "^3.4.1"
   }
 }
